@@ -1,3 +1,6 @@
+# Copyright (c) 2023 Luiz Gustavo Pfitscher e Feldmann
+# Licensed under the MIT license: https://opensource.org/licenses/MIT
+
 import re
 import os
 import argparse
